@@ -1,0 +1,3 @@
+[submodule "KickstartModular.nvim"]
+	path = KickstartModular.nvim
+	url = https://github.com/Cinition/KickstartModular.nvim
